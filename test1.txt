@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 864F-AB1C
+
+ Directory of C:\Users\hi\OneDrive\Desktop\MyProject
+
+12/28/2020  11:54 PM    <DIR>          .
+12/28/2020  11:54 PM    <DIR>          ..
+12/28/2020  11:38 PM               363 test1.text
+12/28/2020  11:54 PM                 0 test1.txt
+               2 File(s)            363 bytes
+               2 Dir(s)  66,392,117,248 bytes free
